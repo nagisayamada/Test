@@ -5,5 +5,4 @@ INDEX VERSION 1.134+C:\pleiades\2024-03\workspace\.metadata\.plugins\org.eclipse
 2309394155.index
 969968605.index
 1865797976.index
-4222298462.index
 3497190822.index
