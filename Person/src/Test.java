@@ -3,7 +3,7 @@ public class Test {
 	public static void main(String[] args){
 		Robot taro = new Robot();
 	
-		taro.name="asimo";
+		taro.name="pepper";
 	
 	System.out.println(taro.name);
 	
