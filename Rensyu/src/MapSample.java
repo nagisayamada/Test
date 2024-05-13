@@ -24,8 +24,8 @@ public class MapSample {
 		}
 	
 	for(Map.Entry<String,String> e : map.entrySet( )) {
-		 System.out.println(e.getKey( ) + " : " +
-		e.getValue( ));
+		 System.out.println(e.getKey() + " : " +
+		e.getValue());
 		 }
 
 	
