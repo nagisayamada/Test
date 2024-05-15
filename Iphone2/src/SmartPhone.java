@@ -13,5 +13,5 @@ public class SmartPhone implements Mp3Player{
 	public void back(){
 		System.out.println("戻る");
 		}
-
+	
 }
